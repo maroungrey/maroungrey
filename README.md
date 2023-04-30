@@ -1,4 +1,4 @@
-<h2 align="left">About Me:</h2>
+<h2 align="left">My Tech Stack:</h2>
 
 ###
 
@@ -37,6 +37,6 @@
 
 ###
 
-<p align="left">maroungrey.com</p>
+<a href='https://maroungrey.com/' align="left">maroungrey.com</a>
 
 ###
