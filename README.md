@@ -42,4 +42,6 @@
   <img align="right" height="150" src="https://media.tenor.com/Jsj-LPg73J0AAAAC/cute-animals.gif"  />
 
 
+<h3><img align="center" height="30" src="https://user-images.githubusercontent.com/84743905/174507937-c8637dd7-5a10-4c12-bf23-945c7872ace2.png"> TECHNOLOGIES</h3>
+
 ###
