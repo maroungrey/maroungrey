@@ -43,6 +43,6 @@
 
 ###
 
-<p align="left">My name is Maroun, and I'm a passionate web developer with three years of experience under my belt. My area of expertise is in building e-commerce sites that are not only visually appealing but also user-friendly and efficient.</p>
+<p align="left">My name is Maroun, and I'm a passionate web <br>developer with three years of experience under <br>my belt. My area of expertise is in building <br>e-commerce sites that are not only visually <br>appealing but also user-friendly and efficient.</p>
 
 ###
