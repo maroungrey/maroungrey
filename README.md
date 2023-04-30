@@ -36,6 +36,9 @@
 
 ###
 
-<p align="left">My name is Maroun, and I'm a passionate web developer with three years of experience under my belt. My area of expertise is in building e-commerce sites that are not only visually appealing but also user-friendly and efficient.</p>
+<div align="left">
+  <p>My name is Maroun, and I'm a passionate web developer with three years of experience under my belt. My area of expertise is in building e-commerce sites that are not only visually appealing but also user-friendly and efficient.</p>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fblank-transparent-png-3.png&f=1&nofb=1&ipt=fe4f930b6b9dcdaf44cbb7c41a3613a023e1d7f93e81ce502df60b121d3b27c3&ipo=images" height="20" />
+</div>
 
 ###
