@@ -3,17 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maroungrey&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maroungrey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 40%; padding-right: 5%;">
-    test1
-  </div>
-  <div style="width: 40%; padding-left: 5%;">
-      test2
-  </div>
+  <img src="https://streak-stats.demolab.com?user=maroungrey&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maroungrey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="margin-left: 20px;" />
 </div>
 
 ###
